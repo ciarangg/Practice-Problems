@@ -1,3 +1,7 @@
+// Write a function which given an array of possible ip addresses, 
+// returns an array determining whether each item in the array is
+// IPv4 IPv6 or neither
+
 function validateAddresses(addresses) {
     let returnArray = []
 

@@ -1,6 +1,6 @@
-// let array = [ 2, 3, 10, 2, 4, 8, 1 ]
-
-let array = [10,8,7,6,5]
+// Write a function that given an array of integers calculates the difference 
+// between array[i] and every integer that precedes it in the given array
+// then determines the maximum value of these differences
 
 
 function maxDifference(arr) {
@@ -28,3 +28,7 @@ function maxDifference(arr) {
 }
 
 maxDifference(array)
+
+// let array = [ 2, 3, 10, 2, 4, 8, 1 ]
+
+// let array = [10,8,7,6,5]
